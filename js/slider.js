@@ -15,10 +15,10 @@ function changeImg(){
 
 	
 	if(i < images.length - 1){
-	  // Add 1 to Index
+	 
 	  i++; 
 	} else { 
-		// Reset Back To O
+		
 		i = 0;
 	}
 
